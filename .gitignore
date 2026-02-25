@@ -1,0 +1,35 @@
+# logs
+logs/
+*.log
+
+# Node modules
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Dependency directories
+jspm_packages/
+
+# NPM core
+package-lock.json
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js
+out/
+
+# React Native
+# Ignore the Android directory
+android/
+# Ignore the iOS directory
+ios/
